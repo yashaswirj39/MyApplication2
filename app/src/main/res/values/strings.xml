@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="tourist_place">
+        <item>beach</item>
+        <item>heritage</item>
+        <item>nature</item>
+        <item>temple</item>
+        <item>wildlife</item>
+    </string-array>
+    <string-array name="beach_in_karnataka">
+        <item>gokarna_beach</item>
+        <item>karwar_beach</item>
+        <item>kaup_beach</item>
+        <item>malpe_beach</item>
+        <item>marawanthe_beach</item>
+        <item>murudeshwar_beach</item>
+        <item>surathkal_beach</item>
+    </string-array>
+</resources>
